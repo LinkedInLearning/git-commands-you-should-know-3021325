@@ -108,6 +108,7 @@ $(function () {
     duration: 300,
   })
     .setPin('#types')
+
     .setTween(typesTween)
     .addTo(controller)
 }) // when page loads
