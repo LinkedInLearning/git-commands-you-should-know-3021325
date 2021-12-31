@@ -99,7 +99,7 @@ $(function () {
   typesTween.from("#types .col", {
     scale: 0.5,
     opacity: 0,
-    stagger: 0.25,
+    stagger: 0.26,
   });
 
   new ScrollMagic.Scene({
