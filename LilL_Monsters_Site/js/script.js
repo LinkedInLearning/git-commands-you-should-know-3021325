@@ -105,7 +105,7 @@ $(function () {
   new ScrollMagic.Scene({
     triggerElement: "#types",
     triggerHook: 0,
-    duration: 300,
+    duration: 30001,
   })
     .setPin("#types")
     .setTween(typesTween)
